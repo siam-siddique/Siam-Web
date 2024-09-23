@@ -1,0 +1,14 @@
+/* common shared styles*/
+body {
+  .open-sans-unique {
+    font-family: "Lota", "Sans-serif", system-ui;
+    font-family: "Open Sans", "Sans-serif";
+    font-weight: 800; /* Adjust as needed */
+  } 
+}
+
+/* nav related styles */
+nav {
+  display: flex;
+
+}
